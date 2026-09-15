@@ -1,6 +1,6 @@
 # SlotZone Methodology
 
-Independent, open scoring methodology for casino, game provider, slot game, and bonus evaluation.
+Independent scoring methodology for casino, game provider, slot game, and bonus evaluation.
 
 ## Four Indexes
 
@@ -8,7 +8,7 @@ Independent, open scoring methodology for casino, game provider, slot game, and 
 Three-stage evaluation of online casinos across Trust & Fairness, Payments & Payouts, Bonuses & Promotions, and Customer Experience.
 
 **SPI — SlotZone Provider Index**
-Evaluation of game providers including instrument-verified mobile performance testing.
+Evaluation of game providers. Instrumented mobile testing is the Stage II standard and is not yet in effect.
 
 **SBI — SlotZone Bonus Index**
 EV-based scoring of casino bonus offers using a public Expected Value formula.
@@ -26,7 +26,7 @@ Example: a $100 bonus with 35x wagering at 96% RTP returns an Expected Value of 
 
 ## Why Open Methodology
 
-Most casino review platforms keep their scoring criteria private. We publish ours. Every formula is public. Every score includes a Data Confidence level (A–D) showing how much real-money verification went into it.
+Most casino review platforms do not say what they measure. We publish what we measure and how results are graded. Calculation internals stay closed. Every score carries a Data Confidence level (A–D) showing how much direct verification went into it.
 
 ## Resources
 
